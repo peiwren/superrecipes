@@ -1,0 +1,11 @@
+.btn-container {
+  float: right;
+}
+.container{
+  background-color: rgb(44, 42, 48);
+}
+@media (max-width: 767px) {
+  .btn-container {
+    margin-bottom: 15px;
+  }
+}
