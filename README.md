@@ -3,3 +3,4 @@ It is a recipe search app. The users can search recipes by simply typing in a ke
 
 ### `The Main Technology Used:`
 HTML, CSS, MongoDB, Express JS, Node JS, React, Heroku, SVG
+
